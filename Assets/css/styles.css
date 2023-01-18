@@ -125,7 +125,7 @@ body {
   }
   
   .chatbot{
-    background-color: #70badd;
+    background-color: rgb(48, 165, 173);
     width: 192px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
