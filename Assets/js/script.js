@@ -85,6 +85,30 @@ if (lastUserMessage === 'Bye') {
 if (lastUserMessage === 'Thank you') {
   botMessage = 'Your Welcome';
 }
+if (lastUserMessage === 'hi') {
+  botMessage = 'hi';
+}
+if (lastUserMessage === 'HI') {
+  botMessage = 'HI';
+}
+if (lastUserMessage === 'Hello') {
+  botMessage = 'Hello';
+}
+if (lastUserMessage === 'hello') {
+  botMessage = 'hello';
+}
+if (lastUserMessage === 'We need biryani for 100 persons') {
+  botMessage = 'OK,Your order has confirmed and the cost is 2000 rupees can you please say your delivery location';
+}
+if (lastUserMessage === 'We need briyani for 100 persons') {
+  botMessage = 'OK,Your order has confirmed and the cost is 2000 rupees can you please say your delivery location';
+}
+if (lastUserMessage === '6/196B near coimbatore bus stop-641401') {
+  botMessage = 'Ok, Your delivery location has been updated and Please do your payment by typing Payment';
+}
+if (lastUserMessage === 'Payment') {
+  botMessage = 'bjagadeeswaran@fbl';
+}    
 }
 //****************************************************************
 //****************************************************************
